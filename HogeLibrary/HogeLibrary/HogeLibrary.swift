@@ -9,6 +9,8 @@
 import Foundation
 
 public class HogeLibrary {
+    public init() {}
+
     public func hoge() {
         print("Hoge")
     }
